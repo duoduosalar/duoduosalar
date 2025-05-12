@@ -1,16 +1,32 @@
 ## Hi there 👋
+我是 Jeffrey Hu，是一名专注于数据科学领域的专业人士，热衷于利用数据驱动的方法解决实际问题。
 
-<!--
-**duoduosalar/duoduosalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我
+作为一名数据科学家，我专注于推荐系统和大语言模型的研究与开发。我致力于通过深入分析数据，挖掘有价值的信息，并将其转化为切实可行的解决方案。
 
-Here are some ideas to get you started:
+- 🔭 目前，我正在开展的项目涉及利用深度学习技术优化推荐系统的性能，以提供更个性化的用户体验。
+- 🌱 我持续学习大语言模型的最新进展，不断提升自己在自然语言处理领域的技能，如微调预训练模型以适应特定任务。
+- 👯 期待在推荐系统和大语言模型相关的项目上与其他专业人士合作，共同推动技术的发展。
+- 🤔 在推荐系统的冷启动问题和大语言模型的可解释性方面，我正在寻求更好的解决方案，欢迎有相关经验的人士与我交流。
+- 💬 如果你对数据科学、推荐系统或大语言模型感兴趣，无论是技术问题还是项目合作，都可以问我。
+- 📫 你可以通过 jeffreyhu@email.com（请替换为你的真实邮箱）与我取得联系。
+- 😄 我的代词是 he/him。
+- ⚡ 有趣的是，我曾利用推荐算法为一家电商平台大幅提升了用户的购买转化率。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 我的技能栈
+- **编程语言**：Python、R、SQL
+- **机器学习框架**：TensorFlow、PyTorch、Scikit-learn
+- **自然语言处理工具**：NLTK、spaCy、Transformers
+- **数据处理和分析工具**：Pandas、NumPy、Jupyter Notebook
+- **数据库**：MySQL、MongoDB
+
+### 我的项目
+1. **智能推荐系统项目**：[项目链接]
+   - 该项目旨在为用户提供个性化的商品推荐服务。通过分析用户的历史行为数据和商品属性，利用深度学习模型实现了更精准的推荐。
+2. **大语言模型微调项目**：[项目链接]
+   - 针对特定领域的文本数据，对预训练的大语言模型进行微调，以提高在该领域的文本生成和问答任务的性能。
+
+### 开源贡献
+我积极参与开源项目，在一些推荐系统和自然语言处理相关的开源库中贡献了代码和解决方案，帮助提升了项目的稳定性和性能。
+
+感谢你访问我的 GitHub 页面，期待与你交流和合作！
